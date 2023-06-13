@@ -52,8 +52,28 @@ h1, h2, h3{
 
 .main-banner{
     color: rgba(46, 47, 66, 1);
+    background-color: #2e2f42;
 }
 
 .main-banner-text{
-    
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.main-banner-button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer
+}
+
+.main-banner-button:hover, .main-banner-button:focus{
+    background-color: #404BBF
 }
