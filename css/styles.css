@@ -1,16 +1,11 @@
 html, 
-body{
+body, :root{
     background-color: #FFFFFF;
     color: #434455;
     font-family: 'Roboto', sans-serif;
 
 }
 
-:root{
-    background-color: #FFFFFF;
-    color: #434455;
-    font-family: 'Roboto', sans-serif;
-}
 
 .logo{
     font-family: "Raleway", sans-serif;
