@@ -5,6 +5,9 @@ background-color: #FFFFFF;
 
 .main-banner{
     color: rgba(46, 47, 66, 1);
+}
+
+.main-banner-text{
     position: absolute;
 width: 496px;
 height: 120px;
