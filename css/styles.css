@@ -125,8 +125,7 @@ h1, h2, h3{
 }
 
 .fourth-section{
-    background-color: var(--second-white-color);
-
+    background-color: var(--white-color);
 }
 
 .fourth-section-title{
