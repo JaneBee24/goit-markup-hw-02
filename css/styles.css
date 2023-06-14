@@ -1,9 +1,13 @@
 html, 
-body, :root{
+body,{
     background-color: #FFFFFF;
     color: #434455;
-    font-family: 'Roboto', sans-serif;
+    
 
+}
+
+:root{
+    font-family: 'Roboto', sans-serif;
 }
 
 
