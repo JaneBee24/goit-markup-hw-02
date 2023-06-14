@@ -53,6 +53,10 @@ body{
     list-style: none;
 }
 
+.list_{
+    background-color: var(--white-color);
+}
+
 h1, h2, h3{ 
     font-family: 'Roboto';
 }
