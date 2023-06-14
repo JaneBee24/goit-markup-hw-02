@@ -30,15 +30,20 @@ body{
 
 .link{
     text-decoration:none;
-    font-style: normal;
 
+}
+
+.address{
+    font-style: normal;
 }
 
 .link:hover, .link:focus{
     color: var(--second-blue-color);
 }
 
-
+.span1{
+    color: var(--second-dark-blue-color);
+}
 
 .span{
     color: var(--second-white-color);
