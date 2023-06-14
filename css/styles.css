@@ -29,7 +29,8 @@ body{
 }
 
 .link{
-    text-decoration:none
+    text-decoration:none;
+    font-style: normal;
 
 }
 
@@ -40,15 +41,15 @@ body{
 
 
 .span{
-    color: var(--second-dark-blue-color);
+    color: var(--second-white-color);
 }
 
 .list{
-    list-style: none
+    list-style: none;
 }
 
 h1, h2, h3{ 
-    font-family: 'Roboto'
+    font-family: 'Roboto';
 }
 
 .link-text{
