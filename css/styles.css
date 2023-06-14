@@ -33,6 +33,11 @@ body{
 
 }
 
+.link:hover, .link:focus{
+    color: var(--second-blue-color);
+}
+
+
 
 .span{
     color: var(--second-dark-blue-color);
@@ -64,6 +69,7 @@ h1, h2, h3{
     line-height: 24px;
     letter-spacing: 0.02em;
     color: var(--dark-blue-color);
+    font-style: normal;
 }
 
 .main-banner{
